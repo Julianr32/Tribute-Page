@@ -70,6 +70,7 @@ h2 {
 
 .img-div {
   width: 100%;
+   display: block;
 }
 
 /* End Main section*/
